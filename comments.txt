@@ -1,1 +1,4 @@
-Where is the homework file?
+Your variables should have been used to store the number of each type of basket scored, not it's point value.
+
+It's unclear why you are calculating the total score on line 11 if that is simply the sum of the possible points for each type of basket.
+Your print statement should be printing the variable player, not a hard coded value for how many points were scored.
